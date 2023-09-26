@@ -3,9 +3,10 @@
 ## **Índice**
 1. [Introducción](https://github.com/DianaBMenM/DianaBMenM.github.io#introducci%C3%B3n)
 2. [Capturas de pantalla](https://github.com/DianaBMenM/DianaBMenM.github.io#capturas-de-pantalla)
-3. [Tecnologías](https://github.com/DianaBMenM/Cloondegoogle/blob/main/README.md#objetivo-del-proyecto)
-4. [Español](#) 
-5. [Link a Demo](https://dianabmenm.github.io/)
+3. [Tecnologías](https://github.com/DianaBMenM/DianaBMenM.github.io/blob/main/README.md#tecnolog%C3%ADas)
+4. [Español](https://github.com/DianaBMenM/DianaBMenM.github.io/blob/main/README.md#espa%C3%B1ol
+) 
+5. [Link a Demo](https://github.com/DianaBMenM/DianaBMenM.github.io/blob/main/README.md#link-a-demo)
 
 ***** 
 
