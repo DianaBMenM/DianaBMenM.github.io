@@ -56,9 +56,7 @@ El texto de la página web está escrito en español, al igual que las clases y 
 
 ## Link a demo
 
-**Aquí podrás ver mi proyecto terminado:** [Portafolio]((https://dianabmenm.github.io/)https://dianabmenm.github.io/) 
-
-
+**Aquí podrás ver mi proyecto terminado:**[Portafolio]((https://dianabmenm.github.io/)https://dianabmenm.github.io/) 
 
 
 
