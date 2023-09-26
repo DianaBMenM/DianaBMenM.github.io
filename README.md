@@ -2,7 +2,7 @@
 
 ## **Índice**
 1. [Introducción](https://github.com/DianaBMenM/DianaBMenM.github.io#introducci%C3%B3n)
-2. [Capturas de pantalla](https://github.com/DianaBMenM/Cloondegoogle/blob/main/README.md#2qu%C3%A9-constru%C3%AD)
+2. [Capturas de pantalla](https://github.com/DianaBMenM/DianaBMenM.github.io#capturas-de-pantalla)
 3. [Tecnologías](https://github.com/DianaBMenM/Cloondegoogle/blob/main/README.md#objetivo-del-proyecto)
 4. [Español](#) 
 5. [Link a Demo](https://dianabmenm.github.io/)
