@@ -1,10 +1,13 @@
 # Portafolio Adaptable (Responsive) con Bootstrap 5
 
-### + Introducción 
-### + Capturas de pantalla
-### + Tecnologías 
-### + Español
-### + Link a la página final 
+## **Índice**
+1. [Introducción](https://github.com/DianaBMenM/Cloondegoogle/blob/main/README.md#1-intro)
+2. [Capturas de pantalla](https://github.com/DianaBMenM/Cloondegoogle/blob/main/README.md#2qu%C3%A9-constru%C3%AD)
+3. [Tecnologías](https://github.com/DianaBMenM/Cloondegoogle/blob/main/README.md#objetivo-del-proyecto)
+4. [Español](#) 
+5. [Link a Demo](https://github.com/DianaBMenM/Cloondegoogle/blob/main/README.md#link-a-demo)
+
+***** 
 
 ## Introducción 
 
@@ -51,9 +54,9 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 
 El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
 
-## Link a la página final 
+## Link a demo
 
-Finalmente este es el resultado adaptado a mis royectos y perfil profesional 
+**Aquí podrás ver mi proyecto terminado:** [Portafolio]((https://dianabmenm.github.io/)https://dianabmenm.github.io/) 
 
 
 
